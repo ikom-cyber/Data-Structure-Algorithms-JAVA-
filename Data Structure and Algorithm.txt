@@ -1,0 +1,5 @@
+Data Structure - A named location that can be used to 
+store and organize data 
+Array - a collection of elements stored at contiguos
+memory locations
+Algorithm - a collection of steps to solve a problem
